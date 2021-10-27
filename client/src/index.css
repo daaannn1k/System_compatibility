@@ -1,0 +1,18 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f0f0e7;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.comparePageContainer {
+  margin-top: 5rem;
+}
+
+.comparePageComponents {
+  border-style: groove;
+}
+
+.comparePageColumn {
+  margin: 5% 0;
+}
